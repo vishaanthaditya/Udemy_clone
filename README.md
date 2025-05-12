@@ -5,7 +5,7 @@ A responsive front-end clone of the Udemy website, built with HTML, CSS, and Fle
 
 🌐 Live Demo
 Click here to view the live demo
-(Update with your live link if deployed)
+( https://vishaanthaditya.github.io/Udemy_clone/)
 
 ✨ Features
 ✅ Responsive layout using Flexbox
@@ -25,6 +25,7 @@ CSS3 (Flexbox, Media Queries)
 JavaScript (Optional for interactivity)
 Fonts and icons from Google Fonts and Font Awesome
 Images from Unsplash
+
 🚀 Getting Started
 To run this project locally: use the link below:- []
 
