@@ -27,7 +27,7 @@ Fonts and icons from Google Fonts and Font Awesome
 Images from Unsplash
 
 🚀 Getting Started
-To run this project locally: use the link below:- []
+To run this project locally: use the link below:- [Udemy_Clone\index.html]
 
 📌 Future Improvements Add login/signup functionality
 
